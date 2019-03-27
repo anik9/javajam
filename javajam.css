@@ -1,0 +1,9 @@
+body {background-color: #FCEBB6; color:#221811; font: Verdana }
+
+h1 {background-color:#D2B48C; text-align: center; line-height: 200%;font-weight: bold }
+
+nav {text-align: center; font-weight: bold; }
+
+footer {background-color:#D2B48C; text-align: center; font-size: .60em; font-style: italic; }
+
+.wrapper {width: 80%; margin-right:auto; margin-left:auto;  }
